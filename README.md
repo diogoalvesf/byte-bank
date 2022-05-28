@@ -1,16 +1,11 @@
-# bytebank
+![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/readme-template/main/Readme-%20Flutter%20Fundamentos.png)
 
-A new Flutter project.
+# Bytebank
 
-## Getting Started
+O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o número da conta e o valor monetário da transação!
 
-This project is a starting point for a Flutter application.
+## 🔨 Características do projeto
 
-A few resources to get you started if this is your first Flutter project:
+Neste projeto, você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://raw.githubusercontent.com/Kakomo/readme-template/main/Flutter%20Fundamentos%20Projeto.gif)
